@@ -1,0 +1,40 @@
+
+.main{
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: aqua;
+    width:100%;
+    height: 60px;
+    z-index: 10;
+}
+
+.container li{
+    
+    list-style: none;
+    margin: 0px 0px;
+}
+
+#projects{
+    background-color: orange;
+}
+
+
+#projects_gallery li{
+
+    list-style: none;
+    text-align: center;
+    
+}
+
+#projects_gallery img{
+    max-width: 20%;
+    background-color: crimson;
+    
+
+}
+
+
+
+
